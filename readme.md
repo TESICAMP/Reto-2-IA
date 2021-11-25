@@ -7,4 +7,14 @@ Para esto tienes que genera una lista de colonias en el orden que serán visitad
 
 El archivo *“Notebook guía“* es notebook de jupyter que ayudará a iniciar el reto.
 
+Sube tu archivo de respuesta al siguiente sitio.
+
+https://docs.google.com/forms/d/e/1FAIpQLSdswVZ3XSsRotdI0FtMLw4Q93oXlSJVju4Y7MM1JMS7Qq4zXg/viewform?usp=sf_link
+
 ## ¡Suerte!
+
+links de ayuda:
+
+https://www.youtube.com/watch?v=yAqq-IuDbrQ
+https://drive.google.com/file/d/1ReWMWhzGMoQjRNF9cEhVLC6kT6UMxp5T/view
+https://colab.research.google.com/drive/1aNieRYLfK4F0cS541YGQBxTqIhtR4p-_?usp=sharing
